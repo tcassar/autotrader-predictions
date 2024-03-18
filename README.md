@@ -2,7 +2,7 @@
 
 _Winning project in the University of Manchester MathSoc x AutoTrader Hackathon, March 2024_
 
-![[feature-plots.png]]
+!(A collection of feature plots)[https://github.com/tcassar/autotrader-predictions/blob/main/img/feature-plots.png]
 
 ---
 ## The Brief
@@ -17,13 +17,13 @@ Who are we?
 ---
 ## Our Approach
 
-We studied the machine learning pipeline, and immediately built a model that worked brilliantly - however, we had a problem with data leakage. So, we restarted and did some in-depth data exploration (see `./exploration`). 
+We studied the machine learning pipeline, and immediately built a model that worked brilliantly - however, we had a problem with data leakage. So, we restarted and did some in-depth data exploration (see [`./exploration`](https://github.com/tcassar/autotrader-predictions/tree/main/exploration)). 
 
-We experimented with decision trees, random forests, and artificial neural networks. We looked at published papers to see if regression or classification would be a better approach. We tried automated ML platforms such as [Edge Impulse](https://edgeimpulse.com/), and [FeatureTools](https://www.featuretools.com/) - an automated feature engineering platform. We looked at various forms of hyper-parameter optimisation and model evaluation. 
+We experimented with decision trees, random forests, and artificial neural networks [`./models`](https://github.com/tcassar/autotrader-predictions/tree/main/models). We looked at published papers to see if regression or classification would be a better approach. We tried automated ML platforms such as [Edge Impulse](https://edgeimpulse.com/), and [FeatureTools](https://www.featuretools.com/) - an automated feature engineering platform. We looked at various forms of hyper-parameter optimisation and model evaluation. 
 
 ---
 ## Achievements
 
-Selected to showcase our work, we presented our findings to AutoTrader and fellow finalists. The presentation, complete with slides and speaker notes, is available in `./slides`.
+Selected to showcase our work, we presented our findings to AutoTrader and fellow finalists. The presentation, complete with slides and speaker notes, is available in [`./slides`](https://github.com/tcassar/autotrader-predictions/tree/main/slides).
 
 It was extremely interesting to see the approaches that the other teams had taken. Everyone had a different approach to feature engineering that came with their own positives and negatives.
