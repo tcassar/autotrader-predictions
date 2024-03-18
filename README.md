@@ -17,7 +17,7 @@ Who are we?
 ---
 ## Our Approach
 
-We studied the machine learning pipeline, and immediately built a model that worked brilliantly - however, we had a problem with data leakage. So, we restarted and did some in-depth data exploration (see [`./exploration`](https://github.com/tcassar/autotrader-predictions/tree/main/exploration)). 
+We studied the machine learning pipeline, and immediately built a model that worked brilliantly - however, we had an issue with data leakage. So, we restarted and did some in-depth data exploration (see [`./exploration`](https://github.com/tcassar/autotrader-predictions/tree/main/exploration)). 
 
 We experimented with decision trees, random forests, and artificial neural networks [`./models`](https://github.com/tcassar/autotrader-predictions/tree/main/models). We looked at published papers to see if regression or classification would be a better approach. We tried automated ML platforms such as [Edge Impulse](https://edgeimpulse.com/), and [FeatureTools](https://www.featuretools.com/) - an automated feature engineering platform. We looked at various forms of hyper-parameter optimisation and model evaluation. 
 
