@@ -2,7 +2,7 @@
 
 _Winning project in the University of Manchester MathSoc x AutoTrader Hackathon, March 2024_
 
-!(A collection of feature plots)[https://github.com/tcassar/autotrader-predictions/blob/main/img/feature-plots.png]
+![A collection of feature plots](https://github.com/tcassar/autotrader-predictions/blob/main/img/feature-plots.png)
 
 ---
 ## The Brief
